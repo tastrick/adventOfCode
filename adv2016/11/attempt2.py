@@ -1,0 +1,2 @@
+floors = [[],[],[],[]]
+elevator = 0
